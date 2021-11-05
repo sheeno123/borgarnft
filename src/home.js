@@ -26,7 +26,7 @@ function Home() {
 
         <div className="showcase">
           <h1> Where Everyone Eats</h1>
-          <a href="/app" className="white-btn-2">I Want A Borgar!</a>
+          <a href="#faqs" className="white-btn-2">I Want A Borgar!</a>
           <div className="social">
             <a href="https://discord.gg/borgar" target="_blank" rel="noopener noreferrer nofollow">
               <img src={discord} alt="Logo" />
