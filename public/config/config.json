@@ -9,7 +9,7 @@
   "NFT_NAME": "Borgar",
   "SYMBOL": "BRGR",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 49900000000000000,
+  "WEI_COST": 0,
   "DISPLAY_COST": 0.0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
