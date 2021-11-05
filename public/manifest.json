@@ -1,0 +1,8 @@
+{
+  "short_name": "NCC",
+  "name": "Coder Clone NFT",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
